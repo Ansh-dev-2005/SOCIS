@@ -1,0 +1,8 @@
+/node_modules
+stress.txt
+/log
+.github
+/temp/pdf/*
+data.txt
+*.xlsx
+
